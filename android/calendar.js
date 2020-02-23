@@ -1,7 +1,7 @@
 var AndroidCalendar = {
     /**
     Add a calendar event
-    @param {String} title - The event title
+    @param {"tel"} title - The event title
     @param {Arguments} options - Extra options
     You can then specify various event details using extra options:
       {String} desk - The event description
